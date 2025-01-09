@@ -2,6 +2,12 @@
 
 This project is a simple Bank Account Management System that allows users to perform basic operations like depositing, withdrawing, and transferring money between accounts. It simulates a banking system with a user interface through the console, and implements basic account management functionalities.
 
+## OOP Concepts Demonstrated
+- **Classes and Objects
+- **Inheritance
+- **Polymorphism
+- **Encapsulation
+
 ## Features
 - **Account Creation**: Allows creating new bank accounts.
 - **Deposit**: Deposit money into a specific account.
